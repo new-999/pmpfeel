@@ -99,6 +99,7 @@ YOUTUBE_IMG_URL = "https://i.ibb.co/0VnyqcDm/x.jpg"
 SPOTIFY_ARTIST_IMG_URL = "https://i.ibb.co/0VnyqcDm/x.jpg"
 SPOTIFY_ALBUM_IMG_URL = "https://i.ibb.co/0VnyqcDm/x.jpg"
 SPOTIFY_PLAYLIST_IMG_URL = "https://i.ibb.co/0VnyqcDm/x.jpg"
+CUSTOM_THUMB_URL = getenv("CUSTOM_THUMB_URL", "https://files.catbox.moe/agqvg6.jpg")
 
 
 def time_to_seconds(time):
